@@ -27,7 +27,6 @@ body
             }
             div
             {
-                background: red;
                 width: 100px;
                 margin: auto;
             }
@@ -41,4 +40,16 @@ body
             {
                 display: inline-flex;
                 margin: 20px;
+            }
+            #a
+            {
+                background: blue;
+            }
+            #b
+            {
+                background: red;
+            }
+            #c
+            {
+                background: purple;
             }
